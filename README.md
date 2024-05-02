@@ -21,10 +21,10 @@ This project is a responsive product showcase webpage designed to display a vari
 
 ## Usage
 
-* __Clone Repository__:  git clone https://github.com/your-username/your-repository.git 
+* __Clone Repository__:  git clone https://github.com/Akaash2409/Coding_Assesment_Marmeto.git
 * __Open index.html__: Open the index.html file in your web browser. 
-* __Explore Categories__: Click on Men, Women, or Kids tabs to explore products in different categories. 
-* __Responsive Experience__: Test the responsiveness by adjusting the screen size to see how the layout adapts. 
+* __Explore Categories__: Go to Men, Women, or Kids tabs to explore products in different categories. 
+* __Responsive Experience__: Test the responsiveness by changing the screen size to see how the layout adapts. 
 * __Add to Cart__: Interact with the "Add to Cart" button to simulate adding products to the cart. 
 
 ## Dependencies 
